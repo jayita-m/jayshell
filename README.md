@@ -1,6 +1,8 @@
 # jayshell
 Custom built UNIX shell 
 
+![alt text](https://i.imgur.com/fE6wkMN.jpg)
+
 ## Features
 1.	Uses ANSI sequence to add color and bold to prompter for visual assistance
 
