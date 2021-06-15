@@ -1,5 +1,6 @@
 # jayshell
 Custom built UNIX shell 
+Future development: Allow both Windows and Linux commands
 
 ![alt text](https://i.imgur.com/fE6wkMN.jpg)
 
