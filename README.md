@@ -1,6 +1,7 @@
 # jayshell
-Custom built UNIX shell 
+Custom built UNIX shell <br />
 Future development: Allow both Windows and Linux commands
+Made with lots of SYSCALLs in C!
 
 ![alt text](https://i.imgur.com/fE6wkMN.jpg)
 
